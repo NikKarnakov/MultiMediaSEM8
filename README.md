@@ -7,7 +7,9 @@
 
 ## Структура репозитория
 
-[lab6-8MultiMediaSEM8.ipynb](lab6-8MultiMediaSEM8.ipynb) - Jupiter-notebook с выполненными лабораторными работами №6-8 
+[lab6-8MultiMediaSEM8(БЭКАП).ipynb](lab6-8MultiMediaSEM8.ipynb(БЭКАП)) - Jupiter-notebook с выполненными лабораторными работами №6-8 
+
+p.s. Добавил новый файл, потому что с тем что-то случилось... пытаюсь восстановить
 
 [README.md](README.md) - Краткий отчет о проделанной работе
 
