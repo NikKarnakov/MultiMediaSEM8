@@ -109,14 +109,14 @@
     </thead>
     <tbody>
         <tr>
-            <td><b><i>YOLOv8</i></b></td>
+            <td><b><i>YOLOv11</i></b></td>
             <td>0.848</td>
             <td>0.702</td>
             <td>0.786</td>
             <td>0.494</td>
         </tr>
         <tr>
-            <td><b><i>YOLOv8 с улучшенным бейзлайном</i></b></td>
+            <td><b><i>YOLOv11 с улучшенным бейзлайном</i></b></td>
             <td>0.901</td>
             <td>0.709</td>
             <td>0.800</td>
