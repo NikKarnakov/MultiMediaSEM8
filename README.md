@@ -55,12 +55,12 @@
             <th colspan=2>Dice</th>
         </tr>
         <tr>
-            <th>бейзлайн</th>
-            <th>улучшенный бейзлайн</th>
-            <th>бейзлайн</th>
-            <th>улучшенный бейзлайн</th>
-            <th>бейзлайн</th>
-            <th>улучшенный бейзлайн</th>
+            <th>baseline</th>
+            <th>improved</th>
+            <th>baseline</th>
+            <th>improved</th>
+            <th>baseline</th>
+            <th>improved</th>
         </tr>
     </thead>
     <tbody>
@@ -116,7 +116,7 @@
             <td>0.494</td>
         </tr>
         <tr>
-            <td><b><i>YOLOv11 с улучшенным бейзлайном</i></b></td>
+            <td><b><i>YOLOv11 improved</i></b></td>
             <td>0.901</td>
             <td>0.709</td>
             <td>0.800</td>
