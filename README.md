@@ -7,7 +7,7 @@
 
 ## Структура репозитория
 
-[lab6-8MultiMediaSEM8_Final](lab6-8MultiMediaSEM8_Final) - Jupiter-notebook с выполненными лабораторными работами №6-8 
+[lab6-8MultiMediaSEM8_Final.ipynb](lab6-8MultiMediaSEM8_Final.ipynb) - Jupiter-notebook с выполненными лабораторными работами №6-8 
 
 p.s. Добавил новый файл, потому что с тем что-то случилось... пытаюсь восстановить
 
